@@ -29,7 +29,6 @@
 
     Vscode Landing Page
     https://code.visualstudio.com/ 
-    ## Getting Started -fill
 
 ## Road Map -fill
 ## Games -fill
@@ -49,46 +48,49 @@
 
 <details><summary>HTML</summary><pre>
 
+### Getting Started
 
+## HTML and CSS Road Map
+   HTML and CSS Roadmap for Beginners in 2022
+   https://www.youtube.com/watch?v=6pZdQpPe8zU
 
-HTML Tutorial - How to Make a Super Simple Website
-https://www.youtube.com/watch?v=PlxWf493en4
-
-It's not stickin'? Play a game to learn.
-HTML Video Game: 
-https://www.youtube.com/watch?v=BrHxowQQmmY
+# Game
+## Play a game to learn or Watch the videos
 Nester: A game of nesting HTML code | Trailer
+https://www.youtube.com/watch?v=BrHxowQQmmY
 
 HTML Video Game website:
 https://codepip.com/games/nester/
 
-# Long Video
+# Video
+## Short Video
+HTML Tutorial - How to Make a Super Simple Website
+https://www.youtube.com/watch?v=PlxWf493en4
+
+## Long Video
 HTML Full Course for Beginners | Complete All-in-One Tutorial | 4 Hours
 https://www.youtube.com/watch?v=mJgBOIoGihA
 
-## Road Map
-   HTML and CSS
-   https://www.youtube.com/watch?v=6pZdQpPe8zU
-## Getting Started -fill
-## Games -fill
-   ### Games Video -fill
-   ### Games Web Site -fill
-## Videos:  -fill
-   ### Short -fill
-   ### Long -fill
-   ### Detailed -fill
-## Online Learning Platform -fill
-## Project -fill 
-## Test Yourself websites -fill
-## Job Requirment -fill
-## LinkedIn Jobs -fill
+#### Detailed -fill
+
+### Online Learning Platform -fill
+### Project -fill
+### Test Yourself websites -fill
+### Job Requirment -fill
+### LinkedIn Jobs -fill
 </pre></details>
 <!-- End HTML -->
 <details><summary>CSS</summary><pre>
 
-CSS Section
+## HTML and CSS Road Map
+   HTML and CSS Roadmap for Beginners in 2022
+   https://www.youtube.com/watch?v=6pZdQpPe8zU
 
-CSS Diner Game: https://flukeout.github.io/ Solutions:https://www.youtube.com/watch?v=SbYdwj5lito
+## Getting Started -fill
+
+## Games
+CSS Diner Game: https://flukeout.github.io/ 
+CSS Diner Game: Solutions:https://www.youtube.com/watch?v=SbYdwj5lito
 
 CSS Video Game website:
 CSS Scoops: A game for learning CSS selectors | Trailer
@@ -103,26 +105,18 @@ https://codepip.com/games/flexbox-froggy/
 Flexbox Froggy: Solution
 https://www.youtube.com/watch?v=g0G0BiYm3lE
 
-Video
-Short
-Learn CSS in 20 Minutes
-https://www.youtube.com/watch?v=1PnVor36_40
+## Videos:
 
-Long
-CSS Full Course for Beginners | Complete All-in-One Tutorial | 11 Hours
-https://www.youtube.com/watch?v=n4R2E7O-Ngo
+   ### Short
+   Learn CSS in 20 Minutes
+   https://www.youtube.com/watch?v=1PnVor36_40
 
-Project Section
+   ### Long
+   CSS Full Course for Beginners | Complete All-in-One Tutorial | 11 Hours
+   https://www.youtube.com/watch?v=n4R2E7O-Ngo
 
-## Road Map -fill
-## Getting Started -fill
-## Games -fill
-   ### Games Video -fill
-   ### Games Web Site -fill
-## Videos:  -fill
-   ### Short -fill
-   ### Long -fill
    ### Detailed -fill
+
 ## Online Learning Platform -fill
 ## Project -fill 
 ## Test Yourself websites -fill
@@ -131,13 +125,7 @@ Project Section
 </pre></details>
 <!-- End CSS -->
 
-<details><summary>JavaScript </summary><pre>
-Disarray: A game for learning JavaScript array methods | Trailer
-https://codepip.com/games/disarray/
-# Find another Javascript game
-
-Not playable as of 01/01/2023
-https://codepip.com/games/css-scopes/
+<!-- <details><summary>JavaScript </summary><pre> -->
 
 Video
 Short 
@@ -155,11 +143,19 @@ Project:
 Code Tetris: JavaScript Tutorial for Beginners
 https://www.youtube.com/watch?v=rAUn1Lom6dw
 
-## Road Map -https://www.youtube.com/watch?v=Ar9mGfmsgtM
+## Road Map 
+https://www.youtube.com/watch?v=Ar9mGfmsgtM
+
 ## Getting Started -fill
-## Games -fill
-   ### Games Video -fill
-   ### Games Web Site -fill
+## Games
+Disarray: A game for learning JavaScript array methods | Trailer
+https://codepip.com/games/disarray/
+
+# Find another Javascript game
+
+Not playable as of 01/01/2023
+https://codepip.com/games/css-scopes/
+
 ## Videos:  -fill
    ### Short -fill
    ### Long -fill
