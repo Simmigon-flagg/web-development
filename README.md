@@ -125,7 +125,7 @@ https://www.youtube.com/watch?v=g0G0BiYm3lE
 </pre></details>
 <!-- End CSS -->
 
-<!-- <details><summary>JavaScript </summary><pre> -->
+<details><summary>JavaScript </summary><pre>
 
 Video
 Short 
