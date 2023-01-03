@@ -1,21 +1,21 @@
 # web-development
 <details><summary>Sample</summary><pre>
 
-## Road Map -f
-## Getting Started - fill
-## Games - fill
-   ### Games Video - fill
-   ### Games Web Site - f
-## Videos:  - f
-   ### Short -f
-   ### Long -f
-   ### Detailed -f
-## Online Learning Platform -f
+## Road Map -fill
+## Getting Started -fill
+## Games -fill
+   ### Games Video -fill
+   ### Games Web Site -fill
+## Videos:  -fill
+   ### Short -fill
+   ### Long -fill
+   ### Detailed -fill
+## Online Learning Platform -fill
 
-## Project -f 
-## Test Yourself websites -f
-## Job Requirment -f
-## LinkedIn Jobs - f
+## Project -fill 
+## Test Yourself websites -fill
+## Job Requirment -fill
+## LinkedIn Jobs -fill
 
 </pre></details>
 
@@ -29,21 +29,21 @@
 
     Vscode Landing Page
     https://code.visualstudio.com/ 
-    ## Getting Started - fill
+    ## Getting Started -fill
 
-## Road Map -f
-## Games - fill
-   ### Games Video - fill
-   ### Games Web Site - f
-## Videos:  - f
-   ### Short -f
-   ### Long -f
-   ### Detailed -f
-## Online Learning Platform -f
-## Project -f 
-## Test Yourself websites -f
-## Job Requirment -f
-## LinkedIn Jobs -f
+## Road Map -fill
+## Games -fill
+   ### Games Video -fill
+   ### Games Web Site -fill
+## Videos:  -fill
+   ### Short -fill
+   ### Long -fill
+   ### Detailed -fill
+## Online Learning Platform -fill
+## Project -fill 
+## Test Yourself websites -fill
+## Job Requirment -fill
+## LinkedIn Jobs -fill
 
 </pre></details>
 
@@ -66,20 +66,22 @@ https://codepip.com/games/nester/
 HTML Full Course for Beginners | Complete All-in-One Tutorial | 4 Hours
 https://www.youtube.com/watch?v=mJgBOIoGihA
 
-## Road Map -f
-## Getting Started - fill
-## Games - fill
-   ### Games Video - fill
-   ### Games Web Site - f
-## Videos:  - f
-   ### Short -f
-   ### Long -f
-   ### Detailed -f
-## Online Learning Platform -f
-## Project -f 
-## Test Yourself websites -f
-## Job Requirment -f
-## LinkedIn Jobs - f
+## Road Map
+   HTML and CSS
+   https://www.youtube.com/watch?v=6pZdQpPe8zU
+## Getting Started -fill
+## Games -fill
+   ### Games Video -fill
+   ### Games Web Site -fill
+## Videos:  -fill
+   ### Short -fill
+   ### Long -fill
+   ### Detailed -fill
+## Online Learning Platform -fill
+## Project -fill 
+## Test Yourself websites -fill
+## Job Requirment -fill
+## LinkedIn Jobs -fill
 </pre></details>
 <!-- End HTML -->
 <details><summary>CSS</summary><pre>
@@ -112,20 +114,20 @@ https://www.youtube.com/watch?v=n4R2E7O-Ngo
 
 Project Section
 
-## Road Map -f
-## Getting Started - fill
-## Games - fill
-   ### Games Video - fill
-   ### Games Web Site - f
-## Videos:  - f
-   ### Short -f
-   ### Long -f
-   ### Detailed -f
-## Online Learning Platform -f
-## Project -f 
-## Test Yourself websites -f
-## Job Requirment -f
-## LinkedIn Jobs - f
+## Road Map -fill
+## Getting Started -fill
+## Games -fill
+   ### Games Video -fill
+   ### Games Web Site -fill
+## Videos:  -fill
+   ### Short -fill
+   ### Long -fill
+   ### Detailed -fill
+## Online Learning Platform -fill
+## Project -fill 
+## Test Yourself websites -fill
+## Job Requirment -fill
+## LinkedIn Jobs -fill
 </pre></details>
 <!-- End CSS -->
 
@@ -153,21 +155,21 @@ Project:
 Code Tetris: JavaScript Tutorial for Beginners
 https://www.youtube.com/watch?v=rAUn1Lom6dw
 
-## Road Map -f
-## Getting Started - fill
-## Games - fill
-   ### Games Video - fill
-   ### Games Web Site - f
-## Videos:  - f
-   ### Short -f
-   ### Long -f
-   ### Detailed -f
-   ### Detailed -f
-## Online Learning Platform -f
-## Project -f 
-## Test Yourself websites -f
-## Job Requirment -f
-## LinkedIn Jobs - f
+## Road Map -https://www.youtube.com/watch?v=Ar9mGfmsgtM
+## Getting Started -fill
+## Games -fill
+   ### Games Video -fill
+   ### Games Web Site -fill
+## Videos:  -fill
+   ### Short -fill
+   ### Long -fill
+   ### Detailed -fill
+   ### Detailed -fill
+## Online Learning Platform -fill
+## Project -fill 
+## Test Yourself websites -fill
+## Job Requirment -fill
+## LinkedIn Jobs -fill
 </pre></details>
 <!-- End JavaScript -->
 
@@ -185,20 +187,20 @@ Typescript for Beginners
 
 https://www.youtube.com/watch?v=MOO5vrtTUTE&list=PL0Zuz27SZ-6NS8GXt5nPrcYpust89zq_b&index=1
 <!-- End TypeScript -->
-## Road Map -f
-## Getting Started - fill
-## Games - fill
-   ### Games Video - fill
-   ### Games Web Site - f
-## Videos:  - f
-   ### Short -f
-   ### Long -f
-   ### Detailed -f
-## Online Learning Platform -f
-## Project -f 
-## Test Yourself websites -f
-## Job Requirment -f
-## LinkedIn Jobs - f
+## Road Map -fill
+## Getting Started -fill
+## Games -fill
+   ### Games Video -fill
+   ### Games Web Site -fill
+## Videos:  -fill
+   ### Short -fill
+   ### Long -fill
+   ### Detailed -fill
+## Online Learning Platform -fill
+## Project -fill 
+## Test Yourself websites -fill
+## Job Requirment -fill
+## LinkedIn Jobs -fill
 </pre></details>
 
 <details><summary>Redux Toolkit</summary><pre>
@@ -206,20 +208,20 @@ Redux (Toolkit) in 100 Seconds
 https://www.youtube.com/watch?v=_shA5Xwe8_4
 <!-- End Redux and Redux Toolkit -->
 
-## Road Map -f
-## Getting Started - fill
-## Games - fill
-   ### Games Video - fill
-   ### Games Web Site - f
-## Videos:  - f
-   ### Short -f
-   ### Long -f
-   ### Detailed -f
-## Online Learning Platform -f
-## Project -f 
-## Test Yourself websites -f
-## Job Requirment -f
-## LinkedIn Jobs -f
+## Road Map -fill
+## Getting Started -fill
+## Games -fill
+   ### Games Video -fill
+   ### Games Web Site -fill
+## Videos:  -fill
+   ### Short -fill
+   ### Long -fill
+   ### Detailed -fill
+## Online Learning Platform -fill
+## Project -fill 
+## Test Yourself websites -fill
+## Job Requirment -fill
+## LinkedIn Jobs -fill
 </pre></details>
 
 <details><summary>React JS</summary><pre>
@@ -236,19 +238,19 @@ https://www.youtube.com/watch?v=9zySeP5vH9c
 React:
 https://www.youtube.com/watch?v=9zySeP5vH9c
 
-## Road Map -f
-## Getting Started - fill
-## Games - fill
-   ### Games Video - fill
-   ### Games Web Site - f
-## Videos:  - f
-   ### Short -f
-   ### Long -f
-   ### Detailed -f
-## Online Learning Platform -f
-## Project -f 
-## Test Yourself websites -f
-## Job Requirment -f
-## LinkedIn Jobs - f
+## Road Map -fill
+## Getting Started -fill
+## Games -fill
+   ### Games Video -fill
+   ### Games Web Site -fill
+## Videos:  -fill
+   ### Short -fill
+   ### Long -fill
+   ### Detailed -fill
+## Online Learning Platform -fill
+## Project -fill 
+## Test Yourself websites -fill
+## Job Requirment -fill
+## LinkedIn Jobs -fill
 </pre></details>
 <!-- End React -->
