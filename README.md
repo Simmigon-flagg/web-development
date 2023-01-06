@@ -127,22 +127,6 @@ https://www.youtube.com/watch?v=g0G0BiYm3lE
 
 <details><summary>JavaScript </summary><pre>
 
-Video
-Short 
-100+ JavaScript Concepts you Need to Know
-https://www.youtube.com/watch?v=lkIFF4maKMU
-
-Theory and crash course (Repeatly watch until known.)
-https://www.youtube.com/watch?v=lkIFF4maKMU
-
-Long
-JavaScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours
-https://www.youtube.com/watch?v=EfAl9bwzVZk
-
-Project:
-Code Tetris: JavaScript Tutorial for Beginners
-https://www.youtube.com/watch?v=rAUn1Lom6dw
-
 ## Road Map 
 https://www.youtube.com/watch?v=Ar9mGfmsgtM
 
@@ -153,26 +137,45 @@ https://codepip.com/games/disarray/
 
 # Find another Javascript game
 
-Not playable as of 01/01/2023
+Not playable as of 01/05/2023
 https://codepip.com/games/css-scopes/
 
-## Videos:  -fill
-   ### Short -fill
-   ### Long -fill
-   ### Detailed -fill
-   ### Detailed -fill
+## Videos
+Short 
+100+ JavaScript Concepts you Need to Know
+https://www.youtube.com/watch?v=lkIFF4maKMU
+
+Long
+JavaScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours
+https://www.youtube.com/watch?v=EfAl9bwzVZk
+
+### Detailed Topics
+
+Theory and crash course (Repeatly watch until known.)
+https://www.youtube.com/watch?v=lkIFF4maKMU
+
 ## Online Learning Platform -fill
-## Project -fill 
+
+## Project
+Code Tetris: JavaScript Tutorial for Beginners
+https://www.youtube.com/watch?v=rAUn1Lom6dw
+
 ## Test Yourself websites -fill
 ## Job Requirment -fill
 ## LinkedIn Jobs -fill
 </pre></details>
 <!-- End JavaScript -->
 
-<details><summary>TypeScript</summary><pre>
+<details><summary>TypeScript</summary><pre> 
 
 
-
+<!-- End TypeScript -->
+## Road Map -fill
+## Getting Started -fill
+## Games -fill
+   ### Games Video -fill
+   ### Games Web Site -fill
+## Videos
 Theory and crash course (Repeatly watch until known.)
 Short
 TypeScript in 100 Seconds
@@ -180,18 +183,9 @@ https://www.youtube.com/watch?v=zQnBQ4tB3ZA
 
 Long 
 Typescript for Beginners
-
 https://www.youtube.com/watch?v=MOO5vrtTUTE&list=PL0Zuz27SZ-6NS8GXt5nPrcYpust89zq_b&index=1
-<!-- End TypeScript -->
-## Road Map -fill
-## Getting Started -fill
-## Games -fill
-   ### Games Video -fill
-   ### Games Web Site -fill
-## Videos:  -fill
-   ### Short -fill
-   ### Long -fill
-   ### Detailed -fill
+
+### Detailed -fill
 ## Online Learning Platform -fill
 ## Project -fill 
 ## Test Yourself websites -fill
@@ -250,3 +244,6 @@ https://www.youtube.com/watch?v=9zySeP5vH9c
 ## LinkedIn Jobs -fill
 </pre></details>
 <!-- End React -->
+
+FACTS: :) 
+https://www.youtube.com/watch?v=66tfvFeALBQ
