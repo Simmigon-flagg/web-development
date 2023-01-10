@@ -1,48 +1,27 @@
+https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f
+
 # web-development
-<details><summary>Sample</summary><pre>
 
-## Road Map -fill
-## Getting Started -fill
-## Games -fill
-   ### Games Video -fill
-   ### Games Web Site -fill
-## Videos:  -fill
-   ### Short -fill
-   ### Long -fill
-   ### Detailed -fill
-## Online Learning Platform -fill
+<details><summary>All Games</summary><pre>
 
-## Project -fill 
-## Test Yourself websites -fill
-## Job Requirment -fill
-## LinkedIn Jobs -fill
+Coming soon... some games are inside of the drop down
 
 </pre></details>
 
 <details><summary>VScode</summary><pre>
-  
-  # Visual Studio Code or VScode: 
-    https://www.youtube.com/watch?v=JPZsB_6yHVo
 
-    VS Code
-    https://code.visualstudio.com/docs/introvideos/basics
+  # Visual Studio Code or VScode: 
 
     Vscode Landing Page
     https://code.visualstudio.com/ 
 
-## Road Map -fill
-## Games -fill
-   ### Games Video -fill
-   ### Games Web Site -fill
-## Videos:  -fill
-   ### Short -fill
-   ### Long -fill
-   ### Detailed -fill
-## Online Learning Platform -fill
-## Project -fill 
-## Test Yourself websites -fill
-## Job Requirment -fill
-## LinkedIn Jobs -fill
+## Videos:
+   ### How to install Visual Studio Code on Windows 10/11 [ 2023 Update ] Complete Guide
+
+    https://www.youtube.com/watch?v=JPZsB_6yHVo
+
+   ### Detailed
+   https://code.visualstudio.com/docs/introvideos/basics
 
 </pre></details>
 
@@ -73,8 +52,10 @@ https://www.youtube.com/watch?v=mJgBOIoGihA
 
 #### Detailed -fill
 
-### Online Learning Platform -fill
-### Project -fill
+### Project 
+HTML5 Website Project for Beginners | First HTML Project Tutorial
+https://www.youtube.com/watch?v=T5PD8ofhiug
+
 ### Test Yourself websites -fill
 ### Job Requirment -fill
 ### LinkedIn Jobs -fill
@@ -116,7 +97,8 @@ https://www.youtube.com/watch?v=g0G0BiYm3lE
    https://www.youtube.com/watch?v=n4R2E7O-Ngo
 
    ### Detailed -fill
-
+### Project 
+    https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G
 ## Online Learning Platform -fill
 ## Project -fill 
 ## Test Yourself websites -fill
@@ -246,4 +228,21 @@ https://www.youtube.com/watch?v=9zySeP5vH9c
 <!-- End React -->
 
 FACTS: :) 
+
+How to ACTUALLY learn to code... 7 Roadmaps for 2023
+By Fireship
+
 https://www.youtube.com/watch?v=66tfvFeALBQ
+
+How to google like a Pro.<br />
+"Without the internet, web developent would be terrible!"
+ <br />
+<i> -Someone, Some where, some date and time</i>
+ <br /><br />
+Short:<br />
+https://www.freecodecamp.org/news/how-to-google-like-a-pro-10-tips-for-effective-googling/
+
+Long:<br />
+Google Like a Pro – All Advanced Search Operators Tutorial [2023 Tips]
+https://www.youtube.com/watch?v=BRiNw490Eq0
+
