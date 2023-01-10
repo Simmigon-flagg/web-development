@@ -5,7 +5,7 @@ https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f
 
 <details><summary>All Games</summary><pre>
 
-Coming soon... some games are inside of the drop down
+Coming soon... some games are inside of the other dropdowns 
 
 </pre></details>
 
