@@ -175,7 +175,9 @@ https://www.youtube.com/watch?v=MOO5vrtTUTE&list=PL0Zuz27SZ-6NS8GXt5nPrcYpust89z
 
 <details><summary>Redux Toolkit</summary><pre>
 Redux (Toolkit) in 100 Seconds
+
 https://www.youtube.com/watch?v=_shA5Xwe8_4
+
 <!-- End Redux and Redux Toolkit -->
 
 </pre></details>
