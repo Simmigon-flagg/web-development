@@ -111,17 +111,13 @@ https://www.youtube.com/watch?v=g0G0BiYm3lE
 <details><summary>JavaScript </summary><pre>
 
 ## Road Map 
+JavaScript Roadmap 2022 
 https://www.youtube.com/watch?v=Ar9mGfmsgtM
 
-## Getting Started -fill
+## Getting Started
 ## Games
 Disarray: A game for learning JavaScript array methods | Trailer
 https://codepip.com/games/disarray/
-
-# Find another Javascript game
-
-Not playable as of 01/05/2023
-https://codepip.com/games/css-scopes/
 
 ## Videos
 Short 
@@ -151,9 +147,10 @@ https://www.youtube.com/watch?v=rAUn1Lom6dw
 
 <details><summary>TypeScript</summary><pre> 
 
+## Road Map
+Same as JavaScript roadmap 2022
+https://youtu.be/Ar9mGfmsgtM
 
-<!-- End TypeScript -->
-## Road Map -fill
 ## Getting Started -fill
 ## Games -fill
    ### Games Video -fill
@@ -181,20 +178,6 @@ Redux (Toolkit) in 100 Seconds
 https://www.youtube.com/watch?v=_shA5Xwe8_4
 <!-- End Redux and Redux Toolkit -->
 
-## Road Map -fill
-## Getting Started -fill
-## Games -fill
-   ### Games Video -fill
-   ### Games Web Site -fill
-## Videos:  -fill
-   ### Short -fill
-   ### Long -fill
-   ### Detailed -fill
-## Online Learning Platform -fill
-## Project -fill 
-## Test Yourself websites -fill
-## Job Requirment -fill
-## LinkedIn Jobs -fill
 </pre></details>
 
 <details><summary>React JS</summary><pre>
