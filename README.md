@@ -1,7 +1,6 @@
-
 https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f
 # This page is under construction. Suggestions, Constructive feedback and grammar error fixes are welcomed.
-# web-development
+# Web Development
 
 <details><summary>All Games</summary><pre>
 
@@ -24,10 +23,30 @@ Coming soon... some games are inside of the other dropdowns
     1. Code pin JavaScript game.
         https://youtube.com/shorts/ii98D1OtWfg?feature=share
         https://codepip.com/games/
+
     2. Code combat
         https://codecombat.com/about
         https://youtu.be/rOXRBQIXvlI
 
+</pre></details>
+
+<details><summary>Where to Code? on the Internet or on your computer.</summary><pre>
+<details><summary>VScode</summary><pre>
+
+  # Visual Studio Code or VScode: 
+
+    Vscode Landing Page
+    https://code.visualstudio.com/ 
+
+## Videos:
+   ### How to install Visual Studio Code on Windows 10/11 [ 2023 Update ] Complete Guide
+
+    https://www.youtube.com/watch?v=JPZsB_6yHVo
+
+   ### Detailed
+   https://code.visualstudio.com/docs/introvideos/basics
+
+</pre></details>
 </pre></details>
 
 <details><summary>VScode</summary><pre>
@@ -46,6 +65,7 @@ Coming soon... some games are inside of the other dropdowns
    https://code.visualstudio.com/docs/introvideos/basics
 
 </pre></details>
+
 
 <details><summary>HTML</summary><pre>
 
