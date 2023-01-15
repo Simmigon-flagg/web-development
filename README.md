@@ -6,30 +6,27 @@ https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f
 <details><summary>All Games</summary><pre>
 
 Coming soon... some games are inside of the other dropdowns 
-1 HTML Game
-  1). https://codepip.com/games/nester/
-2 CSS Games
+1. HTML Game
 
-    1). CSS Diner 
+  1. https://codepip.com/games/nester/
+
+2. CSS Games
+
+    1. CSS Diner 
         https://css-diner.netlify.app/
-    1). other important links.
-        https://www.webtopic.com/css-games-examples/BBC
+    2. Other important links.
+        https://www.webtopic.com/css-games-examples
         https://nikitahl.com/learn-css-by-playing-games
         https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f#
-
         
-3 JavaScript Games
+3. JavaScript Games
 
-    1). Code pin JavaScript game.
+    1. Code pin JavaScript game.
         https://youtube.com/shorts/ii98D1OtWfg?feature=share
         https://codepip.com/games/
-    1). code combat
+    2. Code combat
         https://codecombat.com/about
         https://youtu.be/rOXRBQIXvlI
-        
-
-        
-
 
 </pre></details>
 
