@@ -1,79 +1,69 @@
 https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f
-# This page is under construction. Suggestions, Constructive feedback and grammar error fixes are welcomed.
+# This page is under construction.Feel free to add Suggestions, Constructive feedback and grammar error fixes are welcomed.
 # Web Development
 
 <details><summary>All Games</summary><pre>
-
-Coming soon... some games are inside of the other dropdowns 
 1. HTML Game
+   1. https://codepip.com/games/nester/
 
-  1. https://codepip.com/games/nester/
+1. CSS Games
 
-2. CSS Games
+   1. CSS Diner 
+   https://css-diner.netlify.app/
+1. List of Javascript games.
 
-    1. CSS Diner 
-        https://css-diner.netlify.app/
-    2. Other important links.
-        https://www.webtopic.com/css-games-examples
-        https://nikitahl.com/learn-css-by-playing-games
-        https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f#
-        
-3. JavaScript Games
+   1. https://www.webtopic.com/css-games-examples
+   1. https://nikitahl.com/learn-css-by-playing-games
+   1. https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f#
 
-    1. Code pin JavaScript game.
-        https://youtube.com/shorts/ii98D1OtWfg?feature=share
-        https://codepip.com/games/
+1. JavaScript Games
 
-    2. Code combat
-        https://codecombat.com/about
-        https://youtu.be/rOXRBQIXvlI
+   1. Code pin JavaScript game.
+      https://youtube.com/shorts/ii98D1OtWfg?feature=share
+      https://codepip.com/games/
+
+   1. Code combat
+      https://codecombat.com/about
+      https://youtu.be/rOXRBQIXvlI
 
 </pre></details>
 
-<details><summary>Where to Code? on the Internet or on your computer.</summary><pre>
-<details><summary>VScode</summary><pre>
+<!-- <details><summary>Where to Code? on the Internet or on your computer.</summary><pre> -->
+<details><summary>Integrated development environment (IDE) </summary><pre>
 
-  # Visual Studio Code or VScode: 
+# Visual Studio Code or VScode
+Vscode Landing Page
 
-    Vscode Landing Page
-    https://code.visualstudio.com/ 
+https://code.visualstudio.com/ 
 
 ## Videos:
-   ### How to install Visual Studio Code on Windows 10/11 [ 2023 Update ] Complete Guide
-
-    https://www.youtube.com/watch?v=JPZsB_6yHVo
-
-   ### Detailed
-   https://code.visualstudio.com/docs/introvideos/basics
+### How to install Visual Studio Code on Windows 10/11 [ 2023 Update ] Complete Guide
+https://www.youtube.com/watch?v=JPZsB_6yHVo
+## Detailed
+https://code.visualstudio.com/docs/introvideos/basics
 
 </pre></details>
 </pre></details>
 
-<details><summary>VScode</summary><pre>
+<details><summary>Online Integrated development environment (OIDE) </summary><pre>
 
-  # Visual Studio Code or VScode: 
+## Videos
+### 7 Best Browser-based, Online Code Editors for Web Developers
+Video: https://www.youtube.com/watch?v=88yQ0jO6_FY
 
-    Vscode Landing Page
-    https://code.visualstudio.com/ 
-
-## Videos:
-   ### How to install Visual Studio Code on Windows 10/11 [ 2023 Update ] Complete Guide
-
-    https://www.youtube.com/watch?v=JPZsB_6yHVo
-
-   ### Detailed
-   https://code.visualstudio.com/docs/introvideos/basics
-
+1. My Pick for beginners
+   1. https://playcode.io/learn/learn-html-by-building-a-cat-photo-app
+1. Advance
+   1. https://stackblitz.com/
 </pre></details>
 
-
-<details><summary>HTML</summary><pre>
+<!-- <details><summary>HTML</summary><pre> -->
 
 ### Getting Started
 
 ## HTML and CSS Road Map
-   HTML and CSS Roadmap for Beginners in 2022
-   https://www.youtube.com/watch?v=6pZdQpPe8zU
+ HTML and CSS Roadmap for Beginners in 2022
+ https://www.youtube.com/watch?v=6pZdQpPe8zU
 
 # Game
 ## Play a game to learn or Watch the videos
@@ -92,22 +82,29 @@ https://www.youtube.com/watch?v=PlxWf493en4
 HTML Full Course for Beginners | Complete All-in-One Tutorial | 4 Hours
 https://www.youtube.com/watch?v=mJgBOIoGihA
 
-#### Detailed -fill
+# Detailed
+Build a responsive website with HTML & CSS | Part one: Analyzing the project and setting the stage
+https://www.youtube.com/watch?v=h3bTwCqX4ns
 
 ### Project 
 HTML5 Website Project for Beginners | First HTML Project Tutorial
 https://www.youtube.com/watch?v=T5PD8ofhiug
 
-### Test Yourself websites -fill
+### Test Yourself websites 
+1. https://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML
+1. https://www.geeksforgeeks.org/html-course-practice-quiz-1/
+1. LinkedIn: Free with Library card (I need to test)
+
 ### Job Requirment -fill
-### LinkedIn Jobs -fill
+### LinkedIn Jobs
+Missing CSS and Javascript. 
 </pre></details>
 <!-- End HTML -->
 <details><summary>CSS</summary><pre>
 
 ## HTML and CSS Road Map
-   HTML and CSS Roadmap for Beginners in 2022
-   https://www.youtube.com/watch?v=6pZdQpPe8zU
+ HTML and CSS Roadmap for Beginners in 2022
+ https://www.youtube.com/watch?v=6pZdQpPe8zU
 
 ## Getting Started -fill
 
@@ -130,17 +127,17 @@ https://www.youtube.com/watch?v=g0G0BiYm3lE
 
 ## Videos:
 
-   ### Short
-   Learn CSS in 20 Minutes
-   https://www.youtube.com/watch?v=1PnVor36_40
+ ### Short
+ Learn CSS in 20 Minutes
+ https://www.youtube.com/watch?v=1PnVor36_40
 
-   ### Long
-   CSS Full Course for Beginners | Complete All-in-One Tutorial | 11 Hours
-   https://www.youtube.com/watch?v=n4R2E7O-Ngo
+ ### Long
+ CSS Full Course for Beginners | Complete All-in-One Tutorial | 11 Hours
+ https://www.youtube.com/watch?v=n4R2E7O-Ngo
 
-   ### Detailed -fill
+ ## Detailed -fill
 ### Project 
-    https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G
 ## Online Learning Platform -fill
 ## Project -fill 
 ## Test Yourself websites -fill
@@ -169,7 +166,7 @@ Long
 JavaScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours
 https://www.youtube.com/watch?v=EfAl9bwzVZk
 
-### Detailed Topics
+## Detailed Topics
 
 Theory and crash course (Repeatly watch until known.)
 https://www.youtube.com/watch?v=lkIFF4maKMU
@@ -194,8 +191,8 @@ https://youtu.be/Ar9mGfmsgtM
 
 ## Getting Started -fill
 ## Games -fill
-   ### Games Video -fill
-   ### Games Web Site -fill
+ ### Games Video -fill
+ ### Games Web Site -fill
 ## Videos
 Theory and crash course (Repeatly watch until known.)
 Short
@@ -206,7 +203,7 @@ Long
 Typescript for Beginners
 https://www.youtube.com/watch?v=MOO5vrtTUTE&list=PL0Zuz27SZ-6NS8GXt5nPrcYpust89zq_b&index=1
 
-### Detailed -fill
+## Detailed -fill
 ## Online Learning Platform -fill
 ## Project -fill 
 ## Test Yourself websites -fill
@@ -240,12 +237,12 @@ https://www.youtube.com/watch?v=9zySeP5vH9c
 ## Road Map -fill
 ## Getting Started -fill
 ## Games -fill
-   ### Games Video -fill
-   ### Games Web Site -fill
-## Videos:  -fill
-   ### Short -fill
-   ### Long -fill
-   ### Detailed -fill
+ ### Games Video -fill
+ ### Games Web Site -fill
+## Videos:-fill
+ ### Short -fill
+ ### Long -fill
+ ## Detailed -fill
 ## Online Learning Platform -fill
 ## Project -fill 
 ## Test Yourself websites -fill
