@@ -13,19 +13,18 @@
 
 1. List of Javascript games website.
 
-   1. https://www.webtopic.com/css-games-examples
    1. https://nikitahl.com/learn-css-by-playing-games
    1. https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f  
 
 1. JavaScript Games
 
-   1. Code pin JavaScript game.
-      https://youtube.com/shorts/ii98D1OtWfg?feature=share
-      https://codepip.com/games/
+   1. Code games in JavaScript
+         1. Video: https://youtube.com/shorts/ii98D1OtWfg?feature=share
+         1. Website: https://codepip.com/games/
 
    1. Code combat
-      https://codecombat.com/about
-      https://youtu.be/rOXRBQIXvlI
+      1. Video: https://youtu.be/rOXRBQIXvlI
+      1. Website: https://codecombat.com/about
 
 
 How to ACTUALLY learn to code... 7 Roadmaps for 2023 FACTS: :)
@@ -33,18 +32,22 @@ By Fireship
 
 https://www.youtube.com/watch?v=66tfvFeALBQ
 
+<details><summary>Googling as a Software Engineer / Web Developer / UX/UI</summary>
 How to google like a Pro.<br />
 "Without the internet, web development would be a challenge!"
  <br />
 <i> -Someone, Somewhere, some date and time</i>
  <br /><br />
 Short:<br />
+How to Google like a Pro – 10 Tips for More Effective Googling <br />
 https://www.freecodecamp.org/news/how-to-google-like-a-pro-10-tips-for-effective-googling/
 
 Long:<br />
 Google Like a Pro – All Advanced Search Operators Tutorial [2023 Tips]
 <br />
 https://www.youtube.com/watch?v=BRiNw490Eq0
+
+</details>
 
 <details><summary>Learning Platforms</summary><pre>
 
@@ -61,11 +64,16 @@ https://www.youtube.com/watch?v=BRiNw490Eq0
 
 </pre></details> -->
 
-<details><summary>Hard</summary><pre>
+<!-- <details><summary>Hard</summary><pre>
+
+1. https://www.sololearn.com/learn
 
 </pre></details>
 <details><summary>Advance</summary><pre>
-</pre></details>
+
+1. https://www.sololearn.com/learn
+</pre></details> -->
+
 </pre></details>
 
 
@@ -292,6 +300,18 @@ https://www.youtube.com/watch?v=9zySeP5vH9c
 ## LinkedIn Jobs -fill
 </pre></details>
 <!-- End React -->
+
+<details><summary>Projects</summary><pre>
+
+Still working on this section
+# Easy
+1. https://www.webtopic.com/css-games-examples
+# Medium
+1. https://www.webtopic.com/css-games-examples
+# Hard
+1. https://www.webtopic.com/css-games-examples
+
+</pre></details>
 
 <!-- <details><summary>Medium</summary><pre>
    https://github.com/ikatyang/emoji-cheat-sheet
