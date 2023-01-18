@@ -1,16 +1,17 @@
 https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f
 # This page is under construction.Feel free to add Suggestions, Constructive feedback and grammar error fixes are welcomed.
 # Web Development
-
-<details><summary>All Games</summary><pre>
+## Learn to Code with games
 1. HTML Game
-   1. https://codepip.com/games/nester/
+
+   1. https://codepip.com/games/nester
 
 1. CSS Games
 
    1. CSS Diner 
-   https://css-diner.netlify.app/
-1. List of Javascript games.
+   https://css-diner.netlify.app
+
+1. List of Javascript games website.
 
    1. https://www.webtopic.com/css-games-examples
    1. https://nikitahl.com/learn-css-by-playing-games
@@ -26,17 +27,57 @@ https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f
       https://codecombat.com/about
       https://youtu.be/rOXRBQIXvlI
 
+
+How to ACTUALLY learn to code... 7 Roadmaps for 2023 FACTS: :)
+By Fireship
+
+https://www.youtube.com/watch?v=66tfvFeALBQ
+
+How to google like a Pro.<br />
+"Without the internet, web development would be a challenge!"
+ <br />
+<i> -Someone, Somewhere, some date and time</i>
+ <br /><br />
+Short:<br />
+https://www.freecodecamp.org/news/how-to-google-like-a-pro-10-tips-for-effective-googling/
+
+Long:<br />
+Google Like a Pro – All Advanced Search Operators Tutorial [2023 Tips]
+<br />
+https://www.youtube.com/watch?v=BRiNw490Eq0
+
+<details><summary>Learning Platforms</summary><pre>
+
+<details><summary>Beginner Friendly</summary><pre>
+
+## Free Code Camp: All Free No Charge
+1. https://www.freecodecamp.org/
+
+## Sololearn Small Charge
+1. https://www.sololearn.com/learn
 </pre></details>
+
+<!-- <details><summary>Medium</summary><pre>
+
+</pre></details> -->
+
+<details><summary>Hard</summary><pre>
+
+</pre></details>
+<details><summary>Advance</summary><pre>
+</pre></details>
+</pre></details>
+
 
 <!-- <details><summary>Where to Code? on the Internet or on your computer.</summary><pre> -->
 <details><summary>Integrated development environment (IDE) </summary><pre>
 
-# Visual Studio Code or VScode
+## Visual Studio Code or VScode
 Vscode Landing Page
 
 https://code.visualstudio.com/ 
 
-## Videos:
+### Videos
 ### How to install Visual Studio Code on Windows 10/11 [ 2023 Update ] Complete Guide
 https://www.youtube.com/watch?v=JPZsB_6yHVo
 ## Detailed
@@ -47,7 +88,7 @@ https://code.visualstudio.com/docs/introvideos/basics
 
 <details><summary>Online Integrated development environment (OIDE) </summary><pre>
 
-## Videos
+### Videos
 ### 7 Best Browser-based, Online Code Editors for Web Developers
 Video: https://www.youtube.com/watch?v=88yQ0jO6_FY
 
@@ -57,9 +98,9 @@ Video: https://www.youtube.com/watch?v=88yQ0jO6_FY
    1. https://stackblitz.com/
 </pre></details>
 
-<!-- <details><summary>HTML</summary><pre> -->
+<details><summary>HTML</summary><pre>
 
-### Getting Started
+### Prerequisite
 
 ## HTML and CSS Road Map
  HTML and CSS Roadmap for Beginners in 2022
@@ -106,7 +147,7 @@ Missing CSS and Javascript.
  HTML and CSS Roadmap for Beginners in 2022
  https://www.youtube.com/watch?v=6pZdQpPe8zU
 
-## Getting Started -fill
+## Prerequisite -fill
 
 ## Games
 CSS Diner Game: https://flukeout.github.io/ 
@@ -125,7 +166,7 @@ https://codepip.com/games/flexbox-froggy/
 Flexbox Froggy: Solution
 https://www.youtube.com/watch?v=g0G0BiYm3lE
 
-## Videos:
+### Videos
 
  ### Short
  Learn CSS in 20 Minutes
@@ -138,6 +179,7 @@ https://www.youtube.com/watch?v=g0G0BiYm3lE
  ## Detailed -fill
 ### Project 
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G
+
 ## Online Learning Platform -fill
 ## Project -fill 
 ## Test Yourself websites -fill
@@ -152,12 +194,12 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G
 JavaScript Roadmap 2022 
 https://www.youtube.com/watch?v=Ar9mGfmsgtM
 
-## Getting Started
+## Prerequisite
 ## Games
 Disarray: A game for learning JavaScript array methods | Trailer
 https://codepip.com/games/disarray/
 
-## Videos
+### Videos
 Short 
 100+ JavaScript Concepts you Need to Know
 https://www.youtube.com/watch?v=lkIFF4maKMU
@@ -189,11 +231,11 @@ https://www.youtube.com/watch?v=rAUn1Lom6dw
 Same as JavaScript roadmap 2022
 https://youtu.be/Ar9mGfmsgtM
 
-## Getting Started -fill
+## Prerequisite -fill
 ## Games -fill
  ### Games Video -fill
  ### Games Web Site -fill
-## Videos
+### Videos
 Theory and crash course (Repeatly watch until known.)
 Short
 TypeScript in 100 Seconds
@@ -235,11 +277,11 @@ React:
 https://www.youtube.com/watch?v=9zySeP5vH9c
 
 ## Road Map -fill
-## Getting Started -fill
+## Prerequisite -fill
 ## Games -fill
  ### Games Video -fill
  ### Games Web Site -fill
-## Videos:-fill
+### Videos-fill
  ### Short -fill
  ### Long -fill
  ## Detailed -fill
@@ -250,33 +292,5 @@ https://www.youtube.com/watch?v=9zySeP5vH9c
 ## LinkedIn Jobs -fill
 </pre></details>
 <!-- End React -->
-
-FACTS: :) 
-
-How to ACTUALLY learn to code... 7 Roadmaps for 2023
-By Fireship
-
-https://www.youtube.com/watch?v=66tfvFeALBQ
-
-How to google like a Pro.<br />
-"Without the internet, web developent would be terrible!"
- <br />
-<i> -Someone, Some where, some date and time</i>
- <br /><br />
-Short:<br />
-https://www.freecodecamp.org/news/how-to-google-like-a-pro-10-tips-for-effective-googling/
-
-Long:<br />
-Google Like a Pro – All Advanced Search Operators Tutorial [2023 Tips]
-https://www.youtube.com/watch?v=BRiNw490Eq0
-
-In order
-HTML
-
-Start here no pressure: https://css-diner.netlify.app/
-
-
-
-
 
 
