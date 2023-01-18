@@ -1,5 +1,5 @@
-https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f
-# This page is under construction.Feel free to add Suggestions, Constructive feedback and grammar error fixes are welcomed.
+# This page is under construction. Feel free to add Suggestions, Constructive feedback and grammar error fixes are welcomed.
+
 # Web Development
 ## Learn to Code with games
 1. HTML Game
@@ -15,7 +15,7 @@ https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f
 
    1. https://www.webtopic.com/css-games-examples
    1. https://nikitahl.com/learn-css-by-playing-games
-   1. https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f#
+   1. https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f  
 
 1. JavaScript Games
 
@@ -292,5 +292,10 @@ https://www.youtube.com/watch?v=9zySeP5vH9c
 ## LinkedIn Jobs -fill
 </pre></details>
 <!-- End React -->
+
+<!-- <details><summary>Medium</summary><pre>
+   https://github.com/ikatyang/emoji-cheat-sheet
+
+</pre></details> -->
 
 
