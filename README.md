@@ -313,7 +313,10 @@ Still working on this section
 
 </pre></details>
 
-# 1000 Certifications
+## 1000 Certifications
+
+https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/free-certificates/amp/
+
  
 <!-- <details><summary>Medium</summary><pre>
    https://github.com/ikatyang/emoji-cheat-sheet
