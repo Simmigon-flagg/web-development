@@ -313,6 +313,8 @@ Still working on this section
 
 </pre></details>
 
+#1000 Certifications
+ 
 <!-- <details><summary>Medium</summary><pre>
    https://github.com/ikatyang/emoji-cheat-sheet
 
