@@ -319,7 +319,9 @@ Still working on this section
 
 <details><summary>Cloud</summary><pre>
 1. Amazon Web services. ( AWS )
+
    1. https://explore.skillbuilder.aws/learn/public/catalog/view/32
+
 </pre></details>
 
 
