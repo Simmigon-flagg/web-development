@@ -25,10 +25,10 @@
    1. Code combat
       1. Video: https://youtu.be/rOXRBQIXvlI
       1. Website: https://codecombat.com/about
-1. Cloud Games
-   1.AWS Cloud practitioner
-      Video: https://youtu.be/RgyG6UUEtXM
-      Website: https://aws.amazon.com/training/digital/aws-cloud-quest/
+1. Cloud Games  <br />
+   1.AWS Cloud practitioner  <br />
+      Video: https://youtu.be/RgyG6UUEtXM  <br />
+      Website: https://aws.amazon.com/training/digital/aws-cloud-quest/  <br />
 
 
 How to ACTUALLY learn to code... 7 Roadmaps for 2023 FACTS: :)
