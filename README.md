@@ -317,6 +317,13 @@ Still working on this section
 
 </pre></details>
 
+<details><summary>Cloud</summary><pre>
+1. Amazon Web services. ( AWS )
+   1. https://explore.skillbuilder.aws/learn/public/catalog/view/32
+</pre></details>
+
+
+
 ## 1000 Certifications
 
 https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/free-certificates/amp/
