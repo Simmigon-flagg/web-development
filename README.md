@@ -326,7 +326,9 @@ Still working on this section
 
 
 
-## 1000 Certifications
+## 1000+ Free Developer Certifications
+Dhawal Shah
+January 18, 2023
 
 https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/free-certificates/amp/
 
