@@ -1,7 +1,7 @@
 This page is a living document, and I will update it periodically.
 # The Goal
 ## Meta (Facebook)
-Meta teacher you how to be a Front-End Developer wirh Certificate!
+Meta teacher you how to be a Front-End Developer and provides you with a certificate of completion!
 
 https://www.coursera.org/professional-certificates/meta-front-end-developer#courses
 
