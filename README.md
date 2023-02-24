@@ -1,4 +1,4 @@
-# This page is a living document, and I will update it periodically.
+~This page is a living document, and I will update it periodically.
 # The Goal (Facebook)
 Meta teacher you how to be a Front-End Developer wirh Certificate!
  https://www.coursera.org/professional-certificates/meta-front-end-developer#courses
